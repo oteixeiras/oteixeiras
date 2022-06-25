@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! My name is Fernando 👋
+
+- 🔭 I’m currently working Elixir and Phoenix
+- 🌱 I’m currently learning Docker 
+- 🤔 I’m looking for help with graphql
+- 📫 How to reach me: 
+
+![alt text](IMG/animation_500_l4t9x9cf.gif)
 
 <!--
 **oteixeiras/oteixeiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
