@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Docker 
 - 🤔 I’m looking for help with graphql
 - 📫 How to reach me: 
+[Linkedin](https://www.linkedin.com/in/fernandodesouzateixeira/)
 
 ![alt text](IMG/animation_500_l4t9x9cf.gif)
 
