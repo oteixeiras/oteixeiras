@@ -1,10 +1,4 @@
-### Hi there! My name is Fernando 👋
-
-- 🔭 I’m currently working Elixir and Phoenix
-- 🌱 I’m currently learning Docker 
-- 🤔 I’m looking for help with graphql
-- 📫 How to reach me: 
-[Linkedin](https://www.linkedin.com/in/fernandodesouzateixeira/)
+### Hello, I'm Fernando Teixeira, a software developer based in Brazil 👋🏽
 <hr>
 <div align="center">
   <a href="https://github.com/oteixeiras/oteixeiras">
