@@ -2,7 +2,6 @@
 ### Welcome to my world of code and coffee ☕️👨‍💻
 
 ## **More about me**
-
 <!-- <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> -->
 <img align="right" width="280" src="./IMG/deku.gif" />
 
@@ -25,16 +24,11 @@ object **Profile** {
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oteixeiras&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oteixeiras&layout=compact&langs_count=7&theme=material-palenight">
 </a>
-
-<!-- [website]: https://codedev.ga/ -->
-<!-- [twitter]: https://twitter.com/SEUTWITTER -->
-<!-- [youtube]: https://www.youtube.com/user/SEUYOUTUBE/ -->
-<!-- [instagram]: https://www.instagram.com/SEUINSTAGRAM/ -->
-[linkedin]: https://www.linkedin.com/in/fernandodesouzateixeira/
 <br>
 
 ### Social media
-[![Linkedin: Fernando Teixeira](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandodesouzateixeira/)](https://www.linkedin.com/in/fernandodesouzateixeira/)
+[![Linkedin badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/fernandodesouzateixeira/)
+[![Email badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ofernandos,teixeira@gmail.com)
 
 ### Template base created by
-[![GitHub iuricode]( https://img.shields.io/github/followers/VanessaSwerts?label=iuricode&style=social)](https://github.com/iuricode)
+[![GitHub iuricode](https://img.shields.io/github/followers/VanessaSwerts?label=iuricode&style=social)](https://github.com/iuricode)
