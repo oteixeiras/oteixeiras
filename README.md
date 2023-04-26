@@ -9,13 +9,10 @@
 ```kotlin
 object **Profile** {
  val name = "Fernando Teixeira"
- val pronouns = "He/him"
  val location = "Espírito Santo, Brazil"
  val currentJob = "Software Engineer at Solfacil"
  val primary_skills = listOf("Comunication", "Organization", "Positive")
- val other_skills = listOf("SQL", "Jira", "Slack")
  val interests = listOf("Entrepreneurship", "fintech", "Microservices")
- val hobbies =  listOf("Reading", "To cook", "Stand up")
 }
 ```
 
