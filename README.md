@@ -19,12 +19,13 @@ object **Profile** {
 [![My Skills](https://skills.thijs.gg/icons?i=git,github,elixir,py,java,fastapi,postgres,docker,grafana,jenkins,postman,inux&theme=dark)](https://skills.thijs.gg)
 
 
-## **GitHub Estatísticas**
+## Recently I'm coding in
+
 <a href="https://github.com/oteixeiras/oteixeiras">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oteixeiras&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oteixeiras&layout=compact&langs_count=7&theme=material-palenight">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oteixeiras&&show_icons=true&hide_title=true&theme=radical&layout=compact&hide_border=true&border_radius=30&langs_count=15&exclude_repo=Analyseroom&hide=c%2B%2B,dart,html,css,javascript," alt="top languages"/>
+  </a>
+</p>
 </a>
-<br>
 
 ### Social media
 [![Linkedin badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/fernandodesouzateixeira/)
