@@ -16,7 +16,7 @@ object **Profile** {
 ```
 
 ## **Languages and Tools worked**  
-[![My Skills](https://skills.thijs.gg/icons?i=git,github,elixir,py,java,fastapi,postgres,docker,grafana,jenkins,postman,inux&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=elixir,py,java,fastapi,postgres,kafka,docker,grafana,jenkins,postman,git,github&theme=dark)](https://skills.thijs.gg)
 
 
 ## Recently I'm coding in
