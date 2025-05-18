@@ -16,7 +16,7 @@ object **Profile** {
 ```
 
 ## **Languages and Tools worked**  
-[![My Skills](https://skillicons.dev/icons?i=elixir,py,java,fastapi,postgres,kafka,docker,grafana,jenkins,postman,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,py,java,fastapi,postgres,kafka,docker,grafana,jenkins,postman,git,githubactions,github&theme=dark)](https://skillicons.dev)
 
 
 
