@@ -27,5 +27,5 @@ end
 [![My Skills](https://skillicons.dev/icons?i=elixir,py,java,fastapi,postgres,kafka,docker,grafana,jenkins,postman,git,githubactions,github&theme=dark)](https://skillicons.dev)
 
 ### Social media
-[![Linkedin badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/fernandodesouzateixeira/)
+[![Linkedin badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/fernandos-teixeira/)
 [![Email badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ofernandos.teixeira@gmail.com)
